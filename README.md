@@ -8,14 +8,12 @@
 - 모든 프로그램이 그렇듯이 프로그램 진입점이 존재하며 main() 함수가 그 역할을 하게 될 것입니다.
 - javascript와 Python2이 혼합된 듯한 모습을 보여줍니다.
 
-<p> 
-'''
+```
 function main() {
   print 'Hello, World!';
 }
-'''
-
-'''
+```
+```
 function main() 
 {
   var t = true;
@@ -25,4 +23,4 @@ function main()
   var s = 'Hello, World!';
   print t, ' ', f, ' ', i, ' ', d, ' ', s;
 }
-</p>
+```
